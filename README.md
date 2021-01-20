@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jonathandanylko/)
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jdanylko.svg?style=social&label=Follow%20jdanylko)](https://twitter.com/jdanylko)
+- Visit [DanylkoWeb](https://www.danylkoweb.com/)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanylko&show_icons=true&theme=dark" alt="jdanylko" />
