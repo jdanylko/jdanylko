@@ -3,8 +3,7 @@
 How to reach me on the Interwebs 📫 :
 * [DanylkoWeb](https://www.danylkoweb.com/)
 * [Linkedin](https://www.linkedin.com/in/jonathandanylko/)
-* [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/jdanylko.svg?style=social&label=Follow%20jdanylko)](https://twitter.com/jdanylko) 
-  [![Twitter](https://img.shields.io/twitter/follow/jdanylko.svg?style=social&label=Follow)](https://twitter.com/jdanylko)
+* [![Twitter](https://img.shields.io/twitter/follow/jdanylko.svg?style=social&label=Follow%20jdanylko)](https://twitter.com/jdanylko)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanylko&show_icons=true&theme=dark" alt="jdanylko" />
