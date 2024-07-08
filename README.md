@@ -22,13 +22,13 @@
 </p>
 
 <div>
+  <p  align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jdanylko&theme=tokyo-night" />
+  </p>
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanylko&show_icons=true&theme=tokyonight" alt="jdanylko" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdanylko&theme=tokyonight&hide_border=false" />
     </p>
-  <p  align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jdanylko&theme=tokyo-night" />
-  </p>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanylko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
 </div>
   
