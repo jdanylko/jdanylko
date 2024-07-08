@@ -18,7 +18,7 @@
   </a>
 </h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jdanylko&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jdanylko&theme=nord&column=5&no-bg=true&no-frame=true" />
 </p>
 
 <div>
