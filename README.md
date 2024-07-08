@@ -1,34 +1,36 @@
-### Hi there 👋
+<h2 align="center">
+  Jonathan "JD" Danylko<br/>
+  <sub>.NET Web Architect</sub>
+</h2>
+
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=jdanylko&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;" />
-.NET Web Architect
+  <img src="https://img.shields.io/github/followers/jdanylko?style=for-the-badge" alt="Followers" style="height:21px;" />
+  <img src="https://img.shields.io/github/stars/jdanylko?style=for-the-badge" alt="Stars" style="height:21px;" />
+  <a href="https://www.twitter.com/jdanylko">
+    <img src="https://img.shields.io/twitter/follow/jdanylko" alt="Twitter" style="height:21px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathandanylko/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-blue" alt="Jonathan's LinkedIn Profile" style="height:21px;" />
+  </a>
+  <a href="https://www.danylkoweb.com/">
+    <img src="https://img.shields.io/badge/Go_to-DanylkoWeb-blue" alt="DanylkoWeb" style="height:21px;" />
+  </a>
 </h2>
-<a href="https://www.danylkoweb.com/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;" />
-</a>
-
-<div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=jdanylko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=jdanylko&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanylko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=jdanylko&theme=tokyo-night)
-  </div>
-
-<p>How to reach me on the Interwebs 📫 :</p>
-* [DanylkoWeb](https://www.danylkoweb.com/)
-* [Linkedin](https://www.linkedin.com/in/jonathandanylko/)
-* [![Twitter](https://img.shields.io/twitter/follow/jdanylko.svg?style=social&label=Follow%20jdanylko)](https://twitter.com/jdanylko)
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanylko&show_icons=true&theme=dark" alt="jdanylko" />
-<div/>
-<br />
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jdanylko&show_icons=true&theme=tokyonight" alt="jdanylko" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdanylko&theme=tokyonight&hide_border=false" />
+    </p>
+  <p  align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jdanylko&theme=tokyo-night" />
+  </p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanylko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
+</div>
   
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanylko&layout=compact&hide=html&theme=dark" alt="jdanylko" />
-<div/>
-<br />
-
+<h3>Top Repositories</h3>
+<img src="https://gh-card.dev/repos/jdanylko/Tuxboard.svg" />
 
 <!--
 **jdanylko/jdanylko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
