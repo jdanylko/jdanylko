@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/Go_to-DanylkoWeb-blue" alt="DanylkoWeb" style="height:21px;" />
   </a>
 </h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jdanylko&theme=onedark" />
+</p>
 
 <div>
   <p align="center">
@@ -29,8 +32,6 @@
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdanylko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
 </div>
   
-<h3>Top Repositories</h3>
-<img src="https://gh-card.dev/repos/jdanylko/Tuxboard.svg" />
 
 <!--
 **jdanylko/jdanylko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
