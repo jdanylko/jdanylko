@@ -1,6 +1,6 @@
 <h2 align="center">
   Jonathan "JD" Danylko<br/>
-  <sub>Author of <a href="https://packt.link/S6HRb">ASP.NET 8 Best Practices</a> / Blogger / .NET Web Architect</sub>
+  <sub>Author of <a href="https://packt.link/S6HRb">ASP.NET Best Practices</a> / Blogger / .NET Web Architect</sub>
 </h2>
 
 <h2 align="center">
